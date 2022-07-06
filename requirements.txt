@@ -1,0 +1,10 @@
+pandas
+numpy
+lxml
+config==0.5.1
+praw==7.6.0
+requests==2.25.1
+requests-cache==0.6.3
+beautifulsoup4==4.9.3
+dnspython==1.16.0
+async-timeout==3.0.1
