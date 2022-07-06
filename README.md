@@ -3,7 +3,7 @@
 So hey there, the purpose of this was to create a bot which would provide the users with the statistics of a Manchester United Player over the course of a season.
 How it would work, is if the redditor invokes the bot by typing a comment 
   "statsbot!"<player_name>
-This would immediately search for the player name in a datframe which compromises of stats which has been extracted from the fbref page.
+This would immediately search for the player name in a datframe which compromises of stats which has been extracted from the fbref page. Furthermore, from a slew of metrics, we select the most effective stats for a player.
 
 
 #Future Updates
